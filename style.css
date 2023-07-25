@@ -1,0 +1,35 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note {
+    font-size: 20px;
+    color: black;
+}
+
+body {
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperset.com%2Fw%2Ffull%2F9%2F2%2Fa%2F121794.jpg&f=1&nofb=1&ipt=7cdbd092a6bb233ad63cb1cf1e8b675e50c1888c945f79396e469e3df2fd83e2&ipo=images");
+    background-size: cover;
+}
+
+.div_nomedamusica_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#nomedamusica{
+    font-size: 23px;
+    margin: 15px;
+}
+
+#butao {
+    width: 151px;
+    font-size: 21px;
+    border-radius: 11px;
+}
+
+canvas {
+    border: solid 5px crimson;
+}
